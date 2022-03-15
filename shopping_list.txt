@@ -2,4 +2,4 @@ car x 2
 bus x 3
 plane x 10
 door x 1
-book x 220
+book x 30
