@@ -1,0 +1,115 @@
+7.
+commit 3f7541aad0842132698d2f96552d049f983da127 (HEAD -> master, branch2, branch1)
+Author: Stefan Todorovski <stefan.aplch@outlook.com>
+Date:   Tue Mar 15 20:51:03 2022 +0100
+
+    Add quantities to the items.
+
+commit 4cd09e76bb65284b9470da7b45e31cd1e42e02f4
+Author: Stefan Todorovski <stefan.aplch@outlook.com>
+Date:   Tue Mar 15 20:50:15 2022 +0100
+
+    Add 5 items to the shopping list
+
+commit 713f2f34a4db099ddd97be4e4c5cd9d321a03f0a (origin/master, origin/HEAD)
+Author: StefanTodorovski <100579632+StefanTodorovski@users.noreply.github.com>
+Date:   Tue Mar 15 20:38:52 2022 +0100
+
+    Update README.md
+
+commit 052bb0521e3a1687e39d74957780cb1e5d72aadf
+Author: StefanTodorovski <100579632+StefanTodorovski@users.noreply.github.com>
+Date:   Tue Mar 15 20:38:41 2022 +0100
+
+    Initial commit
+
+
+17.
+commit 56b2576d51967714d28dd18787dc5b0217661477 (HEAD -> branch2)
+Author: Stefan Todorovski <stefan.aplch@outlook.com>
+Date:   Tue Mar 15 20:55:02 2022 +0100
+
+    Modify item #4
+
+commit 3f7541aad0842132698d2f96552d049f983da127 (origin/branch2)
+Author: Stefan Todorovski <stefan.aplch@outlook.com>
+Date:   Tue Mar 15 20:51:03 2022 +0100
+
+    Add quantities to the items.
+
+commit 4cd09e76bb65284b9470da7b45e31cd1e42e02f4
+Author: Stefan Todorovski <stefan.aplch@outlook.com>
+Date:   Tue Mar 15 20:50:15 2022 +0100
+
+    Add 5 items to the shopping list
+
+commit 713f2f34a4db099ddd97be4e4c5cd9d321a03f0a
+Author: StefanTodorovski <100579632+StefanTodorovski@users.noreply.github.com>
+Date:   Tue Mar 15 20:38:52 2022 +0100
+
+    Update README.md
+
+commit 052bb0521e3a1687e39d74957780cb1e5d72aadf
+Author: StefanTodorovski <100579632+StefanTodorovski@users.noreply.github.com>
+Date:   Tue Mar 15 20:38:41 2022 +0100
+
+    Initial commit
+
+19. на крај направив лог
+
+
+commit 725ae4a92ae37ab78de67eb9e1536e3e5006a0c8 (HEAD -> master)
+Merge: 1a0da53 21a7328
+Author: Stefan Todorovski <stefan.aplch@outlook.com>
+Date:   Tue Mar 15 21:15:57 2022 +0100
+
+    Branch2 merge to master
+
+commit 1a0da5372d9e81a72811a5635d7188cb5a31ceeb
+Merge: 223b687 46f7cb9
+Author: Stefan Todorovski <stefan.aplch@outlook.com>
+Date:   Tue Mar 15 21:14:39 2022 +0100
+
+    Merge branch 'branch1'
+
+commit 21a732821e8bd3fb870f3c91be3a5a92d5cadd1d (branch2)
+Author: Stefan Todorovski <stefan.aplch@outlook.com>
+Date:   Tue Mar 15 21:12:51 2022 +0100
+
+    Modify item #4 and add item #6
+
+commit 223b68783e9c7dc2aa190f45f84914223cb23ddb (origin/master, origin/HEAD)
+Author: Stefan Todorovski <stefan.aplch@outlook.com>
+Date:   Tue Mar 15 20:53:53 2022 +0100
+
+    Change quantity of item #2
+
+commit 46f7cb9244c8057b881a373edfd4b9f43ab0e223 (origin/branch1, branch1)
+Author: Stefan Todorovski <stefan.aplch@outlook.com>
+Date:   Tue Mar 15 20:53:13 2022 +0100
+
+    Change quantity of item #5
+
+commit 3f7541aad0842132698d2f96552d049f983da127 (origin/branch2)
+Author: Stefan Todorovski <stefan.aplch@outlook.com>
+Date:   Tue Mar 15 20:51:03 2022 +0100
+
+    Add quantities to the items.
+
+commit 4cd09e76bb65284b9470da7b45e31cd1e42e02f4
+Author: Stefan Todorovski <stefan.aplch@outlook.com>
+Date:   Tue Mar 15 20:50:15 2022 +0100
+
+    Add 5 items to the shopping list
+
+commit 713f2f34a4db099ddd97be4e4c5cd9d321a03f0a
+Author: StefanTodorovski <100579632+StefanTodorovski@users.noreply.github.com>
+Date:   Tue Mar 15 20:38:52 2022 +0100
+
+    Update README.md
+
+commit 052bb0521e3a1687e39d74957780cb1e5d72aadf
+Author: StefanTodorovski <100579632+StefanTodorovski@users.noreply.github.com>
+Date:   Tue Mar 15 20:38:41 2022 +0100
+
+    Initial commit
