@@ -1,5 +1,6 @@
 car x 2
 bus x 19
 plane x 10
-door x 1
-book x 30
+game x 1
+book x 220
+speaker x 20
